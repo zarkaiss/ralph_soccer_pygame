@@ -1,0 +1,4 @@
+- [x] Create core Pygame window, field rendering, and main event loop structure (main.py)
+- [x] Implement player and ball classes with vector movement and boundaries (entities.py)
+- [x] Implement physics collision handling, goal detection, and score tracking logic (physics.py)
+- [x] Build automated test script using pytest and OpenCV visual verification (test_game.py)
